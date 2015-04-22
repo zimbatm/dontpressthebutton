@@ -1,0 +1,13 @@
+{
+  "name": "Don't press the button",
+  "description": "TODO",
+  "repository": "https://github.com/zimbatm/dontpressthebutton",
+  "keywords": ["button", "don't", "no really"],
+  "website": "http://zimbatm.com/dontpressthebutton",
+  "success_url": "/",
+  "addons": ["pusher:sandbox", "redistogo:nano"],
+  "env": {
+    "RACK_ENV": "production",
+  }
+}
+
