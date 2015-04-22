@@ -7,7 +7,7 @@
   "success_url": "/",
   "addons": ["pusher:sandbox", "redistogo:nano"],
   "env": {
-    "RACK_ENV": "production",
+    "RACK_ENV": "production"
   }
 }
 
